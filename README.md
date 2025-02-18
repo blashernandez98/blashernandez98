@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 Currently working on my portfolio website<br>👯‍♂️ Looking to collaborate with my community<br>🤝 Looking for team members for the Micrsoft Fabric and AI Hackathon<br>🌱 Learning everyday about AI and Full-stack web development
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/blashernandez)
 
